@@ -1,0 +1,7 @@
+<resources>
+
+    <color name="black_overlay">#66000000</color>
+    <color name="colorPrimaryDark">#3FA44C</color>
+    <color name="my_statusbar_color">#21D29B</color>
+
+</resources>
