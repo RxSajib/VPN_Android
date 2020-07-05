@@ -437,7 +437,7 @@
                     android:layout_above="@+id/adView"
                     android:layout_marginBottom="7dp"
                     app:adSize="BANNER"
-                    app:adUnitId="ca-app-pub-3947412102662378/5055658358"
+                    app:adUnitId="ca-app-pub-8213826839161591/3458623117"
                     app:layout_constraintEnd_toEndOf="parent">
                 </com.google.android.gms.ads.AdView>
 
@@ -449,7 +449,7 @@
                     android:layout_alignParentBottom="true"
                     android:layout_centerHorizontal="true"
                     app:adSize="BANNER"
-                    app:adUnitId="ca-app-pub-3947412102662378/5055658358"
+                    app:adUnitId="ca-app-pub-8213826839161591/3458623117"
                     app:layout_constraintBottom_toBottomOf="parent"
                     app:layout_constraintEnd_toEndOf="parent"
                     app:layout_constraintHorizontal_bias="0.593"

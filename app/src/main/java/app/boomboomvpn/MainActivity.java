@@ -130,9 +130,9 @@ public class MainActivity extends Activity {
 
 
 	//admob ads
-	private static final String AdmobAppID = "ca-app-pub-3947412102662378/6796099526";
+	private static final String AdmobAppID = "ca-app-pub-1358361564833828/2915396311";
 	private com.google.android.gms.ads.InterstitialAd AdmobInterstitialAd;
-	private static final String AdmobInID = "ca-app-pub-3947412102662378/6796099526";
+	private static final String AdmobInID = "ca-app-pub-1358361564833828/2915396311";
 	private com.google.android.gms.ads.reward.RewardedVideoAd AdmobRewardAd;
 	private static final String AdmobRewardID = "";
 	private com.google.android.gms.ads.AdView mAdView;
@@ -342,7 +342,7 @@ public class MainActivity extends Activity {
 
 
 		interstitialAd = new InterstitialAd(getApplicationContext());
-		interstitialAd.setAdUnitId("ca-app-pub-3947412102662378/6796099526");
+		interstitialAd.setAdUnitId("ca-app-pub-1358361564833828/2915396311");
 		interstitialAd.loadAd(new AdRequest.Builder().build());
 
 
